@@ -14,4 +14,4 @@ const protocol = process.env.PROTOCOL || 'http'
 const ip = require('ip').address()
 const port = process.env.PORT || 3030
 
-app.listen(port, console.log(`Server started in http://localhost:${port} or ${protocol}:${ip}:${port}`))
+app.listen(port, console.log(`Server started in apichrome.azurewebsites.net${port} or ${protocol}:${ip}:${port}`))
