@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "root",
-    "password": "Toor@123",
-    "database": "backendnode",
+    "username": "chromelocalhost",
+    "password": "mateus@2023",
+    "database": "colegiocontrolechrome",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
